@@ -4,8 +4,8 @@ import java.util.*;
 
 public class Customer {
 
-    private String name;
-    private List<Rental> rentals = new ArrayList<Rental>();
+    private final String name;
+    private final List<Rental> rentals = new ArrayList<Rental>();
 
     public Customer(String name) {
         this.name = name;
