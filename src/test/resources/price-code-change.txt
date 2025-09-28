@@ -1,0 +1,5 @@
+Rental record for Leslie
+	Jaws	9.0
+	Jaws	9.0
+Amount owed is 18.0
+You earned 4 frequent renter points

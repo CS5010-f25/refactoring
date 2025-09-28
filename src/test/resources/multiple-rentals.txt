@@ -1,0 +1,6 @@
+Rental record for Leslie
+	Jaws	2.0
+	Up	1.5
+	Superman	3.0
+Amount owed is 6.5
+You earned 3 frequent renter points

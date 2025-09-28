@@ -1,0 +1,4 @@
+Rental record for Leslie
+	Superman	3.0
+Amount owed is 3.0
+You earned 1 frequent renter points
