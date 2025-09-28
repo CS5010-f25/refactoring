@@ -107,5 +107,4 @@ class CustomerTest {
     customer.addRental(new Rental(supermanMovie, 10));
     assertEquals(getResource("long-rentals.txt"), customer.statement());
   }
-
 }
